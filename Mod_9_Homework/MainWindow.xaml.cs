@@ -80,6 +80,7 @@ namespace Mod_9_Homework
       List<Student> st_list = new List<Student>();
       static int pos = 0;
       static int pos_n = 0;
+      public string test = "test for git";
 
       public MainWindow()
         {
